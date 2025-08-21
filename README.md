@@ -60,6 +60,6 @@ Philosophers must not starve and proper synchronization must be ensured to avoid
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/philosophers.git
+git clone https://github.com/ylamkhan/philo.git
 cd philosophers
 make
