@@ -59,7 +59,11 @@ Philosophers must not starve and proper synchronization must be ensured to avoid
 
 Clone the repository:
 
-```bash
+`bash
 git clone https://github.com/ylamkhan/philo.git
 cd philosophers
-make
+make`
+
+## Authors
+
+- **Youssef Lmkhantar** - *Full-stack Developer* - [MyGithub](https://github.com/ylamkhan)
